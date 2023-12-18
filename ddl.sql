@@ -2,7 +2,7 @@ create TABLE theater(
     theater_id serial primary key,
     theater_address varchar(200),
     theater_phone varchar(100),
-    established_year numeric,
+    established_year integer,
     theater_open varchar(10)
 )
 
