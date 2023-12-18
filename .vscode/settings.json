@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "name": "HWMOVIEerd",
+            "connectString": "postgres://qmormmme:S9D1-DtH0Ohb85xgo0YNtEnNOMPY3P3B@berry.db.elephantsql.com/qmormmme"
+        }
+    ]
+}
